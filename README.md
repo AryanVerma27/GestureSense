@@ -65,7 +65,6 @@ edge-impulse-daemon --clean                # connect board to your EI project
 - Frequency-domain feature extraction for time-series sensor data
 - Deploying a quantized neural network on a resource-constrained MCU (TinyML)
 
-## Authors
+## Author
 
-- **Shrinath Abhay Palwankar**
 - **Aryan Verma**
